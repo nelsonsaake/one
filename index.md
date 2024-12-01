@@ -1,6 +1,6 @@
 # CONCERNS
 
-- [EBITS](/ebits)
-- [AG]()
-- [UG]()
-- [Semper]()
+- [EBITS](/ebits.md)
+- [AG](/ag.md)
+- [UG](/ug.md)
+- [Semper](/semper.md)
